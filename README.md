@@ -17,5 +17,6 @@
  - Run `terraform init` to installed required plugins of aws provider
  - Run `terraform plan` to validate 
  - Run `terraform apply`
+ - Keep `var.keyname`  default by typing `enter`
 
  # ---------------------------------------------------------------- #

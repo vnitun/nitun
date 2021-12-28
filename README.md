@@ -13,19 +13,8 @@
 
  - Please configure AWS CLI in your terraform machine
  - I have used us-west-2 region 
- - clone code from :
+ - clone code from : https://github.com/vnitun/nitun.git
  - run `terraform plan` to validate 
  - run `terraform apply`
 
  # ---------------------------------------------------------------------------------------- #
-
-
-
-
-
- ****
-# Prerequisites:
- 
- 1.  AWS account 
- 2.  IAM role with necessary permissions
- 3.  Terraform & AWS CLI configured on machine from which the scripts are to be run

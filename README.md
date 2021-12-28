@@ -13,8 +13,9 @@
 
  - Please configure AWS CLI in your terraform machine
  - I have used us-west-2 region for AWS resources
- - clone code from : https://github.com/vnitun/nitun.git
- - run `terraform plan` to validate 
- - run `terraform apply`
+ - Clone code from : https://github.com/vnitun/nitun.git
+ - Run `terraform init` to installed required plugins of aws provider
+ - Run `terraform plan` to validate 
+ - Run `terraform apply`
 
  # ---------------------------------------------------------------- #

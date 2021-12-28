@@ -3,10 +3,10 @@
  - Create VPC with 3 public and 3 private subnet with IGW and NGW.
  - Create SSH key par for autoscaling.
  - Autoscaling will lunche  EC2 into private subnet.
- - Also, have defined userdata which will install nginx and homepage will print hostname ec2.
+ - Also, have defined userdata which will install nginx and homepage will print hostname of ec2 instance.
  - Create s3 Bucket.
  - Create AWS IAM role with s3 GetObject and PutObject policy and have attached role to Launch Configuration.
- - Created Load balancer with target group.
+ - Create Load balancer with target group.
 
 
  # Instruction to run terraform scipt 

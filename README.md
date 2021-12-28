@@ -1,7 +1,7 @@
 # Overview of terraform script
 
- - Created VPC with 3 public and 3 private subnet with ING and NGW.
- - Created SSH key par for autoscaling.
+ - Create VPC with 3 public and 3 private subnet with IGW and NGW.
+ - Create SSH key par for autoscaling.
  - Autoscaling will lunche  EC2 into private subnet.
  - Also, have defined userdata which will install nginx and homepage will print hostname ec2.
  - Create s3 Bucket.
